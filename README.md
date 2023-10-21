@@ -1,5 +1,4 @@
 
-
 ##  👨‍💻 A Byte About Me
 Hi, I'm Aditya Rokade, a Computer Engineering graduate with a strong academic background (8.24 CGPA). I'm passionate about technology and coding, and I love solving complex problems. Let's code and innovate together!
 
